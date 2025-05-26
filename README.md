@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ... *web developer*<br>- 📚 I'm currently learning ... *React Native and Figma Design*</p>
+<p align="left">- 🔭 *Web Developer | MERN Stack | JavaScript | React | Node.js | Express | MongoDB | REST & GraphQL APIs | Data-Driven Development | Scalable Web Apps |  Open to New Opportunities*<br>- 📚 I'm currently learning ... *React Native*</p>
 
 ###
 
